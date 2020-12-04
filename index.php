@@ -95,7 +95,7 @@
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title" style="color:#F0AD00;">Game 1</h5>
+        <h5 class="card-title" style="color:#F0AD00;">Space Invaders</h5>
         <p class="card-text" style="color:black">Super fun game|</p>
         <a href="#" class="btn btn-primary">Play</a>
       </div>
@@ -175,7 +175,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
                 <p><u><a href="/">Oakland Games</a></u> is a project of for Interactive Web Systems class.</p>
-                <p class="h6">© All right Reversed.<a class="text-green ml-2" href="https://imperfectcreators.org/" target="_blank">Daiyaan Ijaz, Alexis Freeman, Renyah</a></p>
+                <p class="h6">© All right Reversed.<a class="text-green ml-2" href="https://nightoff.org/" target="_blank">Daiyaan Ijaz, Alexis Freeman, Renyah</a></p>
             </div>
         </div>
     </div>

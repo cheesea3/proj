@@ -206,7 +206,7 @@ Contributed to content, swf embedding, and created terms of service + privacy po
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
                 <p><u><a href="/">Oakland Games</a></u> is a project of for Interactive Web Systems class.</p>
-                <p class="h6">© All right Reversed.<a class="text-green ml-2" href="https://imperfectcreators.org/" target="_blank">Daiyaan Ijaz, Alexis Freeman, Renyah</a></p>
+                <p class="h6">© All right Reversed.<a class="text-green ml-2" href="https://nightoff.org/" target="_blank">Daiyaan Ijaz, Alexis Freeman, Renyah</a></p>
             </div>
         </div>
     </div>
