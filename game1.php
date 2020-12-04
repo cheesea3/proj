@@ -6,7 +6,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Oakland Games - Games</title>
+    <title>Oakland Games - Space Invaders</title>
 <?php include_once('inc/components/head.php'); ?>
 </head>
 
@@ -61,43 +61,17 @@
     <div style="text-align: center; color: white">
         <img src="assets/img/banners/gamebanner.svg"  style="height:50vh;width:100%"/>
 
-            <h1 style="text-align:left; padding-left:30px;">New Games</h1>
+            <h1 style="text-align:center; padding-left:30px;">Space Invaders</h1>
+			<aside>Press Space to Fire, Left+Right for Directions</aside>
+			<div style="float: left"><a href="game3.php"><h1><- Last game</h1></a></div> <div style="float: right"><a href="game2.php"><h1>Next game -></h1></a></div>
         </div>
+    <div align="center">
+<embed src="inc/swf/spaceinvaders.swf" style="margin: 0 auto; float: none; margin-bottom 10px; padding-top:25px;" width="550" height="400" />
+    </div>
+	
 
-<div style="padding:50px">
-<div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title" style="color:#F0AD00;">Space Invaders</h5>
-        <p class="card-text" style="color:black">Play this classic game online in all its glory! This game is so addictive.</p>
-        <a href="game1.php" class="btn btn-primary">Play</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title" style="color:#F0AD00;">Donkey Kong</h5>
-        <p class="card-text" style="color:black">Play the original of two amazing awesome franchises from everyone's youth.</p>
-        <a href="game2.php" class="btn btn-primary">Play</a>
-      </div>
-    </div>
-  </div>
-    <div class="col-sm-6" style="margin: 0 auto; float: none; margin-bottom 10px; padding-top:25px;">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title" style="color:#F0AD00;">Pacman</h5>
-        <p class="card-text" style="color:black">Everybody knows and loves Pacman!</p>
-        <a href="game3.php" class="btn btn-primary">Play</a>
-      </div>
-    </div>
-  </div>
-
-</div>
-</div>
 </main>
-
+			
 
     <nav class="OaklandGames-nav"></nav>
 

@@ -1,5 +1,4 @@
 <footer class="OaklandGames-footer">
-<!-- Footer -->
     <div class="container ">
         <div class="row text-center text-xs-center text-sm-left text-md-left">
             <div class="col-xs-12 col-sm-4 col-md-4">
@@ -14,8 +13,8 @@
                 <h5>Games</h5>
                 <ul class="list-unstyled quick-links">
                     <li><a href="game1.php"><i class="fa fa-angle-double-right"></i> Space Invaders</a></li>
-                    <li><a href="game2.php"><i class="fa fa-angle-double-right"></i> Zuma Tetris</a></li>
-                    <li><a href="game3.php"><i class="fa fa-angle-double-right"></i> Burger Tycoon</a></li>
+                    <li><a href="game2.php"><i class="fa fa-angle-double-right"></i> Donkey Kong</a></li>
+                    <li><a href="game3.php"><i class="fa fa-angle-double-right"></i> Pacman</a></li>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
@@ -42,5 +41,4 @@
             </div>
         </div>
     </div>
-<!-- ./Footer -->
 </footer>

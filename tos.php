@@ -71,7 +71,7 @@
 <h2>Understand</h2>
 By being on our website and server, you understand that you are accountable for your own mistakes. You understand that we have the authority to do what we want with your account, as it is our property and you're playing on it. You understand that if you do not represent the values that this community stands for then your account will be dealt with accordingly and as fairly as possible. You understand that since Imperfect Gamers operates and is hosted in the United States that the Electronic Signatures in Global and International Commerce Act (ESGICA) is in effect and failure to follow these rules will result in permanent removal from the community.
 <h2>Acceptance</h2>
-You hereby agree that by accepting this TOS, you know that your contract with nightoff.org also correlates to the server and any service that is owned by us.
+You hereby agree that by accepting this TOS, you know that your contract with ImperfectGamers.org also correlates to the server and any service that is owned by us.
 
 
 </main>
@@ -81,6 +81,30 @@ You hereby agree that by accepting this TOS, you know that your contract with ni
 
     <aside class="OaklandGames-news"></aside>
 </div>
+<script>
+var i = 0;
+function move() {
+  if (i == 0) {
+    i = 1;
+    var elem = document.getElementById("totalBar");
+	var emoji = document.getElementById("appearA");
+    var width = 10;
+    var id = setInterval(frame, 10);
+    function frame() {
+      if (width >= 100) {
+        clearInterval(id);
+        i = 0;
+      } else {
+        width++;
+        elem.style.width = width + "%";
+		elem.style['background-image'] = "linear-gradient(to right, #4CAF50 , #2196F3, #f44336)";
+        elem.innerHTML = width  + "%";
+		emoji.innerHTML = "<img src='https://www.emoji.co.uk/files/apple-emojis/objects-ios/698-party-popper.png' style='width:100%; max-width: 64px; height: auto;'></img>"
+      }
+    }
+  }
+}
+</script>		
 
 
 <!-- Footer -->
